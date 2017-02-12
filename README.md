@@ -33,7 +33,7 @@ requests : pip install requests
 ```
 
 ```
-Rest of the moduled come acorss the python 3.x distribution. If not we can install it by pip install <module-name>
+Rest of the modules come acorss the python 3.x distribution. If not we can install it by pip install <module-name>
 ```
 
 
